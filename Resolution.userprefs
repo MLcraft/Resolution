@@ -1,0 +1,44 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\EnemyController.cs" Line="86" Column="5" />
+      <File FileName="Assets\PlayerController.cs" Line="61" Column="35" />
+      <File FileName="Assets\CameraController.cs" Line="18" Column="4" />
+      <File FileName="Assets\RotationStar.cs" Line="14" Column="16" />
+      <File FileName="Assets\ProjectileAutoDestroy.cs" Line="28" Column="4" />
+      <File FileName="Assets\Scripts\LoadManager.cs" Line="39" Column="45" />
+      <File FileName="Assets\Scripts\UI\ViewPresenters\Game\GameHudViewPresenter.cs" Line="29" Column="14" />
+      <File FileName="Assets\Scripts\UI\Controllers\GameHudController.cs" Line="77" Column="43" />
+      <File FileName="Assets\ProjectileController.cs" Line="16" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Resolution" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="UI" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="ViewPresenters" expanded="True">
+                    <Node name="Game" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="PlayerController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Resolution" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
